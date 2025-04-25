@@ -1,0 +1,1 @@
+# wp-wooCommerce-ajax-filter
