@@ -7,8 +7,6 @@
 This plugin adds filtering and sorting for WooCommerce products using AJAX.  
 It allows users to quickly find the products they need without reloading the page.  
 
-## Authors
-This project was developed by **аlex** and **Copilot**. 🚀  
 
 ## Features
 ✅ Filter products by category  
